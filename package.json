@@ -1,0 +1,19 @@
+{
+  "name": "siebogjs-common",
+  "version": "1.0.0",
+  "description": "\"This module contains common enums and utilities\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiebogJS/Common.git"
+  },
+  "author": "Aleksandar Lukić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiebogJS/Common/issues"
+  },
+  "homepage": "https://github.com/SiebogJS/Common#readme"
+}
