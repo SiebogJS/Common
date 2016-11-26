@@ -1,3 +1,5 @@
-module.exports.enums.ConnectionEventEnum = require('./lib/enums/ConnectionEventEnum');
-module.exports.enums.EndpointEventEnum = require('./lib/enums/EndpointEventEnum');
-module.exports.enums.EndpointTypeEnum = require('./lib/enums/EndpointTypeEnum');
+module.exports.enums.ConnectionEventEnum = require('./enums/connection/ConnectionEventEnum');
+module.exports.enums.EndpointEventEnum = require('./enums/connection/EndpointEventEnum');
+module.exports.enums.EndpointTypeEnum = require('./enums/connection/EndpointTypeEnum');
+
+module.exports.util.network = require('./util/network');

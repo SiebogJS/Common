@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SiebogJS/Common/issues"
   },
-  "homepage": "https://github.com/SiebogJS/Common#readme"
+  "homepage": "https://github.com/SiebogJS/Common#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
 }
