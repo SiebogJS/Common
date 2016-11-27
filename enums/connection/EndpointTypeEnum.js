@@ -1,5 +1,5 @@
 
 module.exports = {
     PUBLISH: "pub",
-    REGULAR: "router"
+    ROUTER: "router"
 };
