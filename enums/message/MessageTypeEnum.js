@@ -20,5 +20,7 @@ module.exports = {
     ACL_MESSAGE: 13,
     GET_RUNNING_AGENTS: 14,
     LOG: 15,
-    AGENT_CLASSES: 16
+    AGENT_CLASSES: 16,
+    MIGRATE_AGENT: 17,
+    POST_MIGRATION: 18
 };
