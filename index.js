@@ -4,6 +4,7 @@ module.exports.enums.EndpointEventEnum = require('./enums/connection/EndpointEve
 module.exports.enums.EndpointTypeEnum = require('./enums/connection/EndpointTypeEnum');
 module.exports.enums.MessageTypeEnum = require('./enums/message/MessageTypeEnum');
 module.exports.enums.LayerEnum = require('./enums/LayerEnum');
+module.exports.enums.AgentManagerEventEnum = require('./enums/agent/AgentManagerEventEnum');
 
 
 module.exports.util = {};
