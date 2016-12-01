@@ -9,5 +9,5 @@ module.exports.enums.LayerEnum = require('./enums/LayerEnum');
 module.exports.util = {};
 module.exports.util.network = require('./util/network');
 
-module.exports.strucs = {};
-module.exports.strucs.Message = require('./structs/Message');
+module.exports.structs = {};
+module.exports.structs.Message = require('./structs/Message');
